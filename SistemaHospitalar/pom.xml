@@ -8,6 +8,7 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.release>17</maven.compiler.release>
-        <exec.mainClass>ucb.estudo.view.SistemaHospitalar</exec.mainClass>
+        <exec.mainClass>ucb.estudo.view.ClinicaMedica</exec.mainClass>
     </properties>
+    <name>ClinicaMedica</name>
 </project>

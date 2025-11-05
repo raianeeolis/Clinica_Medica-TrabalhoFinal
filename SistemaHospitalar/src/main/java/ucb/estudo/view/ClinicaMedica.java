@@ -4,7 +4,7 @@
 
 package ucb.estudo.view;
 
-public class SistemaHospitalar {
+public class ClinicaMedica {
 
     public static void main(String[] args) {
         System.out.println("Hello World!");
